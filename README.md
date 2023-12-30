@@ -1,6 +1,6 @@
-# MyWorkspace
+# cascp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.5.
+A library of common components, services, interfaces, and objects to make building Angular apps faster.
 
 ## Development server
 
