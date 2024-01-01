@@ -6,6 +6,9 @@ import { Subject } from "./Subject";
  * @template T Type of value that will be passed to the observer.
  */
 export interface Observer<T> {
+  /**
+   * Value that will be passed to the observer.
+   */
   value: T;
   /**
    * Update the observer with a new value.
